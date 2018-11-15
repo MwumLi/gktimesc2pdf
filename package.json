@@ -14,7 +14,7 @@
     "pdf"
   ],
   "bin": {
-    "gktimesc2pdf": "bin/gktimesc2pdf"
+    "gktimesc2pdf": "./bin/gktimesc2pdf"
   },
   "author": "MwumLi",
   "license": "ISC",
