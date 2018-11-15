@@ -1,0 +1,30 @@
+{
+  "name": "gktimesc2pdf",
+  "version": "1.0.0",
+  "description": "导出极客时间专栏为 pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MwumLi/gktimesc2pdf.git"
+  },
+  "keywords": [
+    "pdf"
+  ],
+  "bin": {
+    "gktimesc2pdf": "bin/gktimesc2pdf"
+  },
+  "author": "MwumLi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MwumLi/gktimesc2pdf/issues"
+  },
+  "homepage": "https://github.com/MwumLi/gktimesc2pdf#readme",
+  "dependencies": {
+    "hummus-recipe": "^1.8.0",
+    "puppeteer-core": "^1.10.0",
+    "shelljs": "^0.8.3"
+  }
+}
