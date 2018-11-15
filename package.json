@@ -17,7 +17,7 @@
     "gktimesc2pdf": "./bin/gktimesc2pdf"
   },
   "author": "MwumLi",
-  "license": "ISC",
+  "license": "GNU General Public License v3.0",
   "bugs": {
     "url": "https://github.com/MwumLi/gktimesc2pdf/issues"
   },
