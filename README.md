@@ -14,11 +14,11 @@
 
 当前工作目录下的 `pdf.json` 为参数文件:
 
-    $ npx github:MwumLi/gktimesc2pdf gktimesc2pdf
+    $ npx github:MwumLi/gktimesc2pdf
 
 指定参数文件:
 
-    $ npx github:MwumLi/gktimesc2pdf gktimesc2pdf export.json
+    $ npx github:MwumLi/gktimesc2pdf export.json
 
 ## 参数文件
 
