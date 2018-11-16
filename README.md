@@ -7,15 +7,18 @@
 
 纯属玩乐! ^V^
 
+> 很遗憾的是没找到很方便给 pdf 增加书签的方法，以至于合并后的 pdf 不能很好的导航相应文章  
+> 如果你知道某种方便程序化地给 pdf 加书签的方法，请告诉我，感激不尽!😃
+
 ## 使用
 
 当前工作目录下的 `pdf.json` 为参数文件:
 
-    $ npx github:MwumLi/gktimesc2pdf gktimesc2pdf
+    $ npx github:MwumLi/gktimesc2pdf
 
 指定参数文件:
 
-    $ npx github:MwumLi/gktimesc2pdf gktimesc2pdf export.json
+    $ npx github:MwumLi/gktimesc2pdf export.json
 
 ## 参数文件
 
