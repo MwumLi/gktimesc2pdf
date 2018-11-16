@@ -40,5 +40,5 @@
   - `"title"`: 只有标题, 例如 `程序员如何用技术变现(上).pdf`
 
 - `merge`: 默认为 true, 是否合并专栏的所有文章为一个 pdf
-- `mergeFilename`: 合并后的文件名称, 默认为 `merge.pdf`
+- `mergeFilename`: 合并后的文件名称, 默认为专栏名或 `merge.pdf`
 - `cookies`: 你登录后的请求 cookie
