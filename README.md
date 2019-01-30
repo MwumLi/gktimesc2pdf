@@ -2,6 +2,8 @@
 
 导出极客时间专栏为 pdf
 
+**注意**:  请转向 <https://github.com/MwumLi/gktimesc2gitbook>, 这个项目可以转化为 gitbook, 使用 gitbook 转换静态站点、各种格式电子书更方便。
+
 [极客时间](https://time.geekbang.org/) 推出的专栏挺不错的  
 为了便于购买后，可以离线观看，因此写了这个脚本
 
